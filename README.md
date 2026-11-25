@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-EdTech_AI-fc8181?style=for-the-badge&logo=awesome" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring?style=for-the-badge&logo=github&color=38bdf8" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring?style=for-the-badge&logo=github&color=38bdf8" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring?style=for-the-badge&logo=github&color=818cf8" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img src="https://img.shields.io/github/followers/ishandutta2007?style=for-the-badge&logo=github&color=c084fc" alt="Follow Author" /></a>
@@ -73,9 +73,9 @@ The sector displays a distinct dual-structure dynamic: it is **moderately fragme
 
 ## 💻 Open-Source GitHub Projects
 
-> *Sorted in descending order by GitHub Star count. Badges link directly to each repository's stargazers page.*
+> *Sorted in descending order by GitHub Stars_Count. Badges link directly to each repository's stargazers page.*
 
-| 📦 Repository & Stars | 📜 License & Cost | 🆓 Self-Hosted Limits | 🔍 Architectural Capabilities & Description |
+| 📦 Repository & GitHub_Stars | 📜 License & Cost | 🆓 Self-Hosted Limits | 🔍 Architectural Capabilities & Description |
 | :--- | :--- | :--- | :--- |
 | **[open-webui/open-webui](https://github.com/open-webui/open-webui)** <br> [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | **MIT Open-Source** <br> ($0 self-hosted) | **100% Free Forever** (Unlimited local users, RAG chat sessions, and multi-model routing) | 🌐 Extensible, self-hosted AI interface for Ollama, vLLM, and OpenAI API with built-in RAG document chat, speech-to-text, and personalized educational system prompts. |
 | **[openai/whisper](https://github.com/openai/whisper)** <br> [![Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | **MIT Open-Source** <br> ($0 local weights) | **100% Free Forever** (Unlimited local audio transcription and phoneme alignment on consumer hardware) | 🎧 General-purpose speech recognition model powering open-source language learning, pronunciation feedback, and lecture transcription pipelines. |
