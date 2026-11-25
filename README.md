@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://img.shields.io/badge/Awesome-EdTech_AI-fc8181?style=for-the-badge&logo=awesome" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-EdTech_AI-fc8181?style=for-the-badge&logo=awesome" alt="Awesome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring?style=for-the-badge&logo=github&color=38bdf8" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring?style=for-the-badge&logo=github&color=818cf8" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img src="https://img.shields.io/github/followers/ishandutta2007?style=for-the-badge&logo=github&color=c084fc" alt="Follow Author" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -36,8 +38,9 @@ Whether you are an engineering team building custom generative learning systems,
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ How to Choose: SaaS vs. Self-Hosted](#️-how-to-choose-saas-vs-self-hosted)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer](#️-disclaimer)
-- [💖 Star & Support](#-star--support)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -111,14 +114,24 @@ Contributions are warmly welcomed! To suggest a new SaaS platform or open-source
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this repository! If this curated guide helped you discover new tools, understand the market landscape, or build personalized AI learning software, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help more learners and builders find it.
+- 🍴 **Fork and contribute** your favorite EdTech platforms or open-source libraries.
+- 📢 **Share it** with friends, educators, researchers, and developers in your network.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, updates, and open-source contributions directly on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
 ## ⚖️ Disclaimer
 
 *All product names, logos, and brands are property of their respective owners. Pricing tiers, trial limits, and valuation data are compiled from public SEC filings, corporate pricing pages, and investor databases as of late 2026 and are subject to change.*
 
 ---
 
-## 💖 Star & Support
-
-If this curated repository saved you hours of research or helped you build your own personalized AI tutor, please consider giving it a **Star ⭐**!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring&Date)
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Edtech-Personalized-AI-Tutoring&type=date&legend=top-left)
